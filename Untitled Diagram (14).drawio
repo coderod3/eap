@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.16">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
-    <mxGraphModel dx="3842" dy="2151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4109" dy="2286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="10" value="Reuniões com stakeholders" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-1140" y="260.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="Definição do termo de abertura do projeto" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="12" value="Aprovação do Conselho de Administração" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1010" y="260.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="43" value="Desenvolvimento do plano de projeto" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -104,7 +104,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="134" value="Desenvolvimento de processos de impressão e entrega" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="415.4999999999998" y="250.0000000000001" width="120" height="60" as="geometry" />
+          <mxGeometry x="439.4999999999998" y="250.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="135" value="Sistema de recepção de documentos eletrônicos (e-mail, site, EDI)" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="220.99999999999977" y="350.0000000000001" width="120" height="60" as="geometry" />
@@ -116,10 +116,10 @@
           <mxGeometry x="220.99999999999977" y="510.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="140" value="Definição das rotinas de impressão nas agências" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="420.9999999999993" y="350.0000000000001" width="120" height="60" as="geometry" />
+          <mxGeometry x="424.4999999999993" y="450.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="141" value="Ajustes na logística de entrega" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="420.99999999999955" y="430.0000000000001" width="120" height="60" as="geometry" />
+        <mxCell id="141" value="Definição do Processo de Entrega ao Destinatário" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="424.49999999999955" y="540.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="145" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#23445D;" parent="1" source="133" target="135" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -289,7 +289,7 @@
         <mxCell id="pVxKrxxlMr4bsF7hxMAY-249" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;strokeWidth=8;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#000000;labelBackgroundColor=default;elbow=vertical;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3" target="pVxKrxxlMr4bsF7hxMAY-248" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pVxKrxxlMr4bsF7hxMAY-241" value="Aprovação pelo Conselho de Administração" style="whiteSpace=wrap;html=1;fillColor=#12AAB5;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="pVxKrxxlMr4bsF7hxMAY-241" value="Definição dos Objetivos e Escopo&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#12AAB5;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-880" y="260.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pVxKrxxlMr4bsF7hxMAY-243" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3" target="pVxKrxxlMr4bsF7hxMAY-241" edge="1">
@@ -298,13 +298,16 @@
             <mxPoint x="-680" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pVxKrxxlMr4bsF7hxMAY-248" value="Levantamento de documentos iniciais" style="whiteSpace=wrap;html=1;fillColor=#12AAB5;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="pVxKrxxlMr4bsF7hxMAY-248" value="Elaboração do Termo de Abertura do Projeto" style="whiteSpace=wrap;html=1;fillColor=#12AAB5;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-750" y="260.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pVxKrxxlMr4bsF7hxMAY-254" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;strokeWidth=8;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#000000;labelBackgroundColor=default;elbow=vertical;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4" target="pVxKrxxlMr4bsF7hxMAY-253" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pVxKrxxlMr4bsF7hxMAY-251" value="Definição do cronograma do projeto" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="pRBT-ZUIiblnVSl4O_Rb-234" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;strokeWidth=8;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#000000;labelBackgroundColor=default;elbow=horizontal;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pVxKrxxlMr4bsF7hxMAY-251" target="pRBT-ZUIiblnVSl4O_Rb-233">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pVxKrxxlMr4bsF7hxMAY-251" value="Planejamento de T.I" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-200.00000000000023" y="220.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pVxKrxxlMr4bsF7hxMAY-253" value="Identificação dos recursos necessários" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -340,11 +343,14 @@
         <mxCell id="pVxKrxxlMr4bsF7hxMAY-264" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;strokeWidth=8;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#000000;labelBackgroundColor=default;elbow=vertical;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7" target="pVxKrxxlMr4bsF7hxMAY-263" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pRBT-ZUIiblnVSl4O_Rb-242" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;strokeWidth=8;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fontStyle=0;labelBackgroundColor=default;elbow=horizontal;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pVxKrxxlMr4bsF7hxMAY-261" target="pRBT-ZUIiblnVSl4O_Rb-241">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pVxKrxxlMr4bsF7hxMAY-261" value="Controle do orçamento (até R$10.000.000,00)" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1014.9999999999998" y="290.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pVxKrxxlMr4bsF7hxMAY-263" value="Acompanhamento do cronograma" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="869.9999999999998" y="290.0000000000002" width="120" height="60" as="geometry" />
+          <mxGeometry x="839.9999999999998" y="290.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pVxKrxxlMr4bsF7hxMAY-269" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;strokeWidth=8;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#000000;labelBackgroundColor=default;elbow=vertical;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8" target="pVxKrxxlMr4bsF7hxMAY-268" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -360,6 +366,36 @@
         </mxCell>
         <mxCell id="pVxKrxxlMr4bsF7hxMAY-270" value="Acompanhamento pós-implementação" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2110" y="209.9999999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pRBT-ZUIiblnVSl4O_Rb-238" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;strokeWidth=8;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fontStyle=0;labelBackgroundColor=default;elbow=horizontal;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pVxKrxxlMr4bsF7hxMAY-251" target="pRBT-ZUIiblnVSl4O_Rb-237">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRBT-ZUIiblnVSl4O_Rb-233" value="Avaliação da Arquitetura de TI Existente" style="whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="-200.00000000000023" y="310.0000000000001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pRBT-ZUIiblnVSl4O_Rb-240" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;strokeWidth=8;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fontStyle=0;labelBackgroundColor=default;elbow=horizontal;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pVxKrxxlMr4bsF7hxMAY-251" target="pRBT-ZUIiblnVSl4O_Rb-239">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRBT-ZUIiblnVSl4O_Rb-237" value="Definição da Tecnologia a ser Utilizada" style="whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="-200.00000000000023" y="390.0000000000001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pRBT-ZUIiblnVSl4O_Rb-239" value="Planejamento da Segurança de Dados" style="whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="-200.00000000000023" y="470.0000000000001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pRBT-ZUIiblnVSl4O_Rb-244" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;strokeWidth=8;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fontStyle=0;labelBackgroundColor=default;elbow=horizontal;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pVxKrxxlMr4bsF7hxMAY-261" target="pRBT-ZUIiblnVSl4O_Rb-243">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRBT-ZUIiblnVSl4O_Rb-241" value="Orçamento de até R$10.000.000,00" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1014.9999999999998" y="383.0000000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pRBT-ZUIiblnVSl4O_Rb-243" value="Controle de Custos" style="whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1014.9999999999998" y="470.0000000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pRBT-ZUIiblnVSl4O_Rb-254" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;strokeWidth=8;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fontStyle=0;labelBackgroundColor=default;elbow=horizontal;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pRBT-ZUIiblnVSl4O_Rb-246" target="134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRBT-ZUIiblnVSl4O_Rb-246" value="Definição dos Processos de Recepção de Documentos (E-mail, Site, EDI)" style="whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="419.5" y="350" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
