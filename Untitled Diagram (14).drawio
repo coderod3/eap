@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.16">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
-    <mxGraphModel dx="4109" dy="2286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5369" dy="2912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -314,29 +314,29 @@
           <mxGeometry x="-360.0000000000002" y="220.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pVxKrxxlMr4bsF7hxMAY-255" value="Capacitação de funcionários" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="609.9999999999998" y="250.0000000000001" width="120" height="60" as="geometry" />
+          <mxGeometry x="659.9999999999998" y="250.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pVxKrxxlMr4bsF7hxMAY-257" value="Treinamento da equipe de TI" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="609.9999999999993" y="350.0000000000001" width="120" height="60" as="geometry" />
+          <mxGeometry x="659.9999999999993" y="350.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pVxKrxxlMr4bsF7hxMAY-258" value="Treinamento dos funcionários nas agências" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="609.9999999999995" y="430.0000000000001" width="120" height="60" as="geometry" />
+          <mxGeometry x="659.9999999999995" y="430.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pVxKrxxlMr4bsF7hxMAY-259" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#23445D;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pVxKrxxlMr4bsF7hxMAY-255" target="pVxKrxxlMr4bsF7hxMAY-257" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="610" y="290" as="sourcePoint" />
-            <mxPoint x="589.9999999999995" y="390" as="targetPoint" />
+            <mxPoint x="660" y="290" as="sourcePoint" />
+            <mxPoint x="639.9999999999995" y="390" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="590" y="340" />
+              <mxPoint x="640" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pVxKrxxlMr4bsF7hxMAY-260" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#23445D;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pVxKrxxlMr4bsF7hxMAY-255" target="pVxKrxxlMr4bsF7hxMAY-258" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="610" y="290" as="sourcePoint" />
-            <mxPoint x="589.9999999999998" y="470" as="targetPoint" />
+            <mxPoint x="660" y="290" as="sourcePoint" />
+            <mxPoint x="639.9999999999998" y="470" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="590" y="380" />
+              <mxPoint x="640" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -396,6 +396,12 @@
         </mxCell>
         <mxCell id="pRBT-ZUIiblnVSl4O_Rb-246" value="Definição dos Processos de Recepção de Documentos (E-mail, Site, EDI)" style="whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="419.5" y="350" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pRBT-ZUIiblnVSl4O_Rb-260" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#23445D;strokeWidth=8;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fontStyle=0;labelBackgroundColor=default;elbow=horizontal;endArrow=none;endFill=0;" edge="1" parent="1" source="pRBT-ZUIiblnVSl4O_Rb-258" target="177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRBT-ZUIiblnVSl4O_Rb-258" value="Aceitação Formal pelos Stakeholders" style="whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1549.9999999999998" y="319.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
